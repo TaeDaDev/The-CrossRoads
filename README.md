@@ -21,21 +21,6 @@ The Crossroads lets you build stories where every decision matters. Writers crea
 
 ---
 
-## Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/the-crossroads.git
-
-# Install dependencies
-cd the-crossroads
-npm install
-
-# Run locally
-npm run dev
-```
-
----
 
 ## Project Status
 
@@ -43,12 +28,6 @@ npm run dev
 
 ---
 
-## Contributing
+## Developers
 
-Ideas, feedback, and pull requests are welcome. Open an issue to start a conversation.
 
----
-
-## License
-
-MIT
